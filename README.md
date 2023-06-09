@@ -18,7 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![images](/screenshots/proj_qr.png)
 
-Here is the link to the UI of this project.
 
 ## My process
 
@@ -48,5 +47,5 @@ We can use css transformations to center an element at the center of the page bo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/calebomondi)
-- Twitter - [@yourusername](https://twitter.com/kalebmokua_)
+- Frontend Mentor - [@calebomondi](https://www.frontendmentor.io/profile/calebomondi)
+- Twitter - [@kalebmokua_](https://twitter.com/kalebmokua_)
